@@ -1,0 +1,50 @@
+2017/11/01 19:59:22 Begin listen port: 10001
+2017/11/01 19:59:34 Receive: Ping
+2017/11/01 19:59:35 Receive: Gideon
+:test
+
+2017/11/01 19:59:37 Receive: Gideon
+:hehe
+
+2017/11/01 19:59:38 Receive: Gideon
+:
+2017/11/01 19:59:38 Receive data failed: %s read tcp4 127.0.0.1:10001->127.0.0.1:50114: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/11/01 20:01:50 Receive: Ping
+2017/11/01 20:01:54 Receive: Gideon
+:test
+
+2017/11/01 20:02:00 Receive: Gideon
+:bla
+
+2017/11/01 20:02:01 Receive: Gideon
+:bla
+
+2017/11/01 20:02:02 Receive: Gideon
+:asdijfoisdjf
+
+2017/11/01 20:02:02 Receive: Gideon
+:asdf
+
+2017/11/01 20:02:02 Receive: Gideon
+:
+
+2017/11/01 20:02:02 Receive: Gideon
+:asdf
+
+2017/11/01 20:02:03 Receive: Gideon
+:as
+
+2017/11/01 20:02:03 Receive: Gideon
+:fa
+
+2017/11/01 20:02:03 Receive: Gideon
+:d
+
+2017/11/01 20:02:26 Begin listen port: 10001
+2017/11/01 20:02:36 Receive: Ping
+2017/11/01 20:02:39 Receive: Gideon
+:Hee there pinguin
+
+2017/11/01 20:02:57 Receive: Gideon
+:why is the server not logging anything anymore? :S
+
